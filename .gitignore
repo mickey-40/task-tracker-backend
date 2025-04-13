@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime files
+pids
+*.pid
+*.seed
+
+# Optional:
+.DS_Store
+.idea/
+.vscode/
